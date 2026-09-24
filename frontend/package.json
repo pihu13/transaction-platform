@@ -1,0 +1,9 @@
+{
+  "name": "transaction-ops-ui",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev": "vite", "build": "vite build", "test": "vitest"},
+  "dependencies": {"@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "axios": "latest", "vitest": "latest", "jsdom": "latest"},
+  "devDependencies": {}
+}
